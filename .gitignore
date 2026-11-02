@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.idea/
+.vscode/
+/qlr.zip
+/V-assist.zip
+/eclipse-workspace.zip
+/qlr/Compound Interest - voice over.pptx
+/qlr/Simple Interest - voice over.pptx
